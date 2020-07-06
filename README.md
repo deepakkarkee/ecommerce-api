@@ -9,4 +9,6 @@ Create following endpoints:
    Url: /customer/{customerId}
    Result: controller   ->    service => service -> controller ('Get successful')
    
+   vai aalmaliye hau ma ta kaseri garne garne po vayo ta
+   
    
